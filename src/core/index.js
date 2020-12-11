@@ -1,0 +1,6 @@
+export * from './curry.js'
+export * from './fill.js'
+export * from './map.js'
+export * from './reduce.js'
+export * from './some.js'
+export * from './toArray.js'
